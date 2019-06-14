@@ -3,7 +3,7 @@ title: Monga
 email: atanasovn636@gmail.com
 description: This is scary, but awesome!
 destination: docs
-baseurl: "monga2" # the subpath of your site, e.g. /blog
+baseurl: "/monga2" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: poli atanasova
 github_username:  poli86
